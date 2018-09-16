@@ -6,3 +6,4 @@ Repository for exploring github commands and features
 2. Banana
 3. Cherry
 4. Grapefruit
+5. Mango
