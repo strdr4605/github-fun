@@ -3,11 +3,11 @@ Repository for exploring github commands and features
 
 ## Fruits
 1. Apple
-2. Banana
-3. Cherry
-4. Grapefruit
-5. Mango
-6. Melon
-7. Kiwi
-8. Orange
-9. Mandarin
+1. Banana
+1. Cherry
+1. Grapefruit
+1. Mango
+1. Melon
+1. Kiwi
+1. Orange
+1. Mandarin
