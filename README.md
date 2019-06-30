@@ -7,6 +7,7 @@ Repository for exploring github commands and features
 3. Cherry
 4. Grapefruit
 5. Mango
-6. Kiwi
-7. Orange
-8. Mandarin
+6. Melon
+7. Kiwi
+8. Orange
+9. Mandarin
