@@ -1,5 +1,5 @@
 # github-fun
-Repository for exploring github commands and features
+Repository for  exploring github commands and features
 
 ## Fruits
 1. Apple
