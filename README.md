@@ -11,7 +11,7 @@ Repository for exploring github commands and features
 1. Coconut Pear
 1. Grapefruit
 1. Dragonfruit
-1. Farkleberry
+1. Feijoa
 1. Kiwi
 1. Lime
 1. Mango
