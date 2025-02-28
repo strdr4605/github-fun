@@ -1,6 +1,6 @@
-# github-fun
+# git-fun
 
-Repository for exploring github commands and features
+Repository for exploring git commands and features
 
 ## Fruits
 
